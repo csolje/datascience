@@ -9,6 +9,6 @@ Created on Tue Apr 10 17:04:41 2018
 FirstName = input("Enter your name: ")
 
 def printName(name):
-    print("Hello my name is", name)
+    print("Hello", name, "how are you")
 
 printName(FirstName)
