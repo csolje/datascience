@@ -14,3 +14,5 @@ def printName(name):
 
 
 printName(FirstName)
+
+printName("Henrik")
